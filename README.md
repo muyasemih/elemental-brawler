@@ -30,7 +30,7 @@ Fast, readable, ability-driven combat. Every hero has a basic attack, a unique s
 - **Custom networking layer** on top of Mirror: networked objects, RPC attributes and synchronized state (health, facing direction, abilities)
 - **Object-oriented character system** — all heroes share a common base class; abilities, cooldowns and ultimates are composed per hero
 - **Game feel** — hit-stop, camera shake, damage numbers, ghost trails and elemental VFX
-- Around **80 gameplay scripts** written from scratch, developed incrementally with Git
+- Around **80 gameplay scripts**, developed incrementally with Git
 
 ## 📸 Media
 
